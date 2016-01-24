@@ -1,0 +1,51 @@
+p
+{
+    color: white; /* Les paragraphes seront en blanc */
+    font-size: medium;
+    text-align: center;
+    
+}
+h1{
+    color: white; /* le titre sera en blanc */
+    font-size: xx-large; /* definit une hauteur de 14 pixels */
+    text-align: center; /* permet de definir ou mettre la ligne : centré, a droite, etc */
+    
+}
+h2{
+    color: red;
+    font-size: x-large;
+    text-align: center;
+    
+}
+balise{
+    font-family: police1, police2, police3, police4;
+}
+body{
+    background-image: url(http://audreydaniel.easy4blog.com/images/billets/0223/223308.jpg); /* permet d'inserer une image de fond */
+    background-repeat: no-repeat; /* evite de multiples images dans la page web */
+    background-size: cover; /* permet d'etirer l'image sur toute la page */
+    text-align: center;
+
+}
+
+a{
+    color: red;
+    font-size: x-large;
+}
+h3{
+    color: red;
+    font-size: x-large;
+}
+h4{
+    color: fuchsia;
+    font-size: x-large;
+}
+li{
+    color: blue;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+footer{
+    color: white;
+}
+
